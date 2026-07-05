@@ -36,4 +36,4 @@ logs/
 *.sqlite3
 
 # Claude Code
-.claude/scheduled_tasks.json
+.claude/
