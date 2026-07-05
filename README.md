@@ -131,13 +131,11 @@ Constitution 是整个项目的最高原则。
 
 当前项目处于：
 
-## Sprint 0 —— 项目基础建设阶段
+## Sprint 1 —— 产品设计阶段
 
-当前目标不是开发业务功能。
+### Sprint 0 已完成 ✅
 
-而是建立整个项目的长期架构。
-
-目前计划依次完成：
+Sprint 0 的目标是建立共同语言（Common Language），已完成：
 
 * ✅ Constitution（项目宪法）
 * ✅ README（项目说明）
@@ -145,11 +143,16 @@ Constitution 是整个项目的最高原则。
 * ✅ Data Model（交易数据模型）
 * ✅ PROJECT_RULES（项目开发规则）
 * ✅ CLAUDE.md（Claude Code 工作说明）
-* ⏳ Roadmap（项目路线图）
-* ⏳ PRD（产品需求文档）
-* ⏳ Metrics Library（指标体系）
 
-完成以上基础文档后，再正式进入业务功能开发。
+### Sprint 1 目标
+
+唯一目标：**设计 V0.1 用户完整使用流程（User Flow）。**
+
+不是写代码，不是写数据库，不是写 API。
+
+而是回答一个问题：
+
+> **用户第一次打开 TradingOS，会发生什么？**
 
 ---
 
